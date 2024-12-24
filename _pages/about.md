@@ -9,17 +9,27 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>1475, Folsom St, Boulder, Colorado, 80302</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+# About Me
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hello! 👋 I’m **Sailesh Dwivedy**, a Master’s student in **Computer Science** (Research Track) at the **University of Colorado Boulder**, where I maintain a 4.0 GPA. My work focuses on pushing the boundaries of **Machine Learning**, **Natural Language Processing (NLP)**, **Computer Vision**, and **Generative AI**.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Currently, I’m working under <a href='https://dannagurari.colorado.edu/'> <b>Prof. Danna Gurari</b></a> at the **Image and Video Computing Lab** on **Knowledge Distillation for Model Compression**. This project aims to develop efficient AI models that preserve accuracy while significantly reducing computational demands, contributing to cutting-edge advancements in AI optimization. This work has been submitted to **CVPR 2025**.
+
+Previously, as a **Data Scientist** with 3 years exp. at **Highradius Technologies**, I:
+
+1. Built and deployed **AI-driven solutions** that enhanced financial workflows for Fortune 500 clients, reducing response times by 40% and boosting dollar recovery rates by 12%.
+2. Led end-to-end **NLP projects** like Smart Email Composer, leveraging **Generative AI** for tailored responses.
+3. Designed models for predictive analytics that cut operational inefficiencies by 30%.
+
+I have hands-on expertise with tools and platforms like **PyTorch**, **Hugging Face**, **GCP**, **AWS**, and **Azure**.
+
+I am passionate about applying cutting-edge AI to solve real-world problems and thrive in collaborative environments. Actively seeking **full-time opportunities starting May 2025**, I aim to contribute my expertise in **AI, Data Science, and Machine Learning** to impactful projects.
+
+Let’s connect to explore how we can create innovative solutions together!
