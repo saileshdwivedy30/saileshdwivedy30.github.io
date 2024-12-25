@@ -177,5 +177,19 @@
       "date": "2019-03",
       "awarder": "Government of India"
     }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Odia",
+      "fluency": "Native Speaker"
+    }
   ]
 }
