@@ -6,7 +6,7 @@ subtitle: <a href='mailto:sailesh.dwivedy@colorado.edu'>sailesh.dwivedy@colorado
 
 profile:
   align: right
-  image: sailesh_pic.png
+  image: sailesh_pic_nyc.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Address: 1475, Folsom St, Boulder, Colorado, 80302</p>
