@@ -2,17 +2,17 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='mailto:sailesh.dwivedy@colorado.edu'>sailesh.dwivedy@colorado.edu</a>. Boulder, CO
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: sailesh_uni.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>1475, Folsom St, Boulder, Colorado, 80302</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
