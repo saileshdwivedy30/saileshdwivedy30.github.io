@@ -6,10 +6,10 @@ subtitle: <a href='mailto:sailesh.dwivedy@colorado.edu'>sailesh.dwivedy@colorado
 
 profile:
   align: right
-  image: sailesh_uni.png
+  image: sailesh_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>1475, Folsom St, Boulder, Colorado, 80302</p>
+    <p>Address: 1475, Folsom St, Boulder, Colorado, 80302</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
