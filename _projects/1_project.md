@@ -1,23 +1,20 @@
 ---
-
 layout: page
 title: Spotify 2023 Streaming Analysis
 description: Exploring the most streamed artists, songs, and industry trends of 2023 through interactive data visualization.
 img: assets/img/spotify\_analysis.png
 importance: 1
 category: work
---------------
+---
 
-```
----
-Source Code available in the repository
-Github handle: saileshdwivedy30
-Project: Spotify 2023 Streaming Analysis
-Deployed App: https://my-example-project-719255-kngkr5dp-ndjz2ws6la-ue.a.run.app/
-Demo Video: https://drive.google.com/file/d/13TnESRwxw4Eew5h-zCw-aM1MxVO8Ncld/view?usp=sharing
-Dataset Link: https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data
----
-```
+    ---
+      Source Code available in the repository
+      Github handle: saileshdwivedy30
+      Project: Spotify 2023 Streaming Analysis
+      Deployed App: https://my-example-project-719255-kngkr5dp-ndjz2ws6la-ue.a.run.app/
+      Demo Video: https://drive.google.com/file/d/13TnESRwxw4Eew5h-zCw-aM1MxVO8Ncld/view?usp=sharing
+      Dataset Link: https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data
+    ---
 
 **Overview**\
 The **Spotify 2023 Streaming Analysis App** provides an **interactive** way to explore **top streamed songs, artists, and streaming trends**. This web-based tool allows users to analyze how song characteristics, playlist placements, and seasonal trends impact streaming performance.
@@ -141,7 +138,6 @@ The app provides multiple **visualizations and insights** to understand streamin
            {% include figure.liquid path="assets/img/p1_plot9.png" title="plot_9" class="img-fluid rounded z-depth-1" %}
        </div>
    </div>
-
 
 ---
 
