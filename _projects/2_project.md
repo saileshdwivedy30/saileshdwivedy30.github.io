@@ -13,8 +13,12 @@ category: work
     Project: Spotify 2023 Streaming Analysis
     Deployed App: https://my-example-project-719255-kngkr5dp-ndjz2ws6la-ue.a.run.app/
     Demo Video: https://drive.google.com/file/d/13TnESRwxw4Eew5h-zCw-aM1MxVO8Ncld/view?usp=sharing
-    Dataset Link: https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data    
+    Dataset Link: https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data
     ---
+
+Deployed App: <a href="https://my-example-project-719255-kngkr5dp-ndjz2ws6la-ue.a.run.app/" target="_blank">Click here</a>
+Demo Video: <a href="https://drive.google.com/file/d/13TnESRwxw4Eew5h-zCw-aM1MxVO8Ncld/view?usp=sharing" target="_blank">Watch Demo</a>  
+Dataset Link: <a href="https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data" target="_blank">View Dataset</a>
 
 ## **Overview**
 The **Spotify 2023 Streaming Analysis App** is an **interactive data visualization platform** that explores **top streamed songs, artists, and industry trends**. It enables **music analysts, data enthusiasts, and industry professionals** to analyze how **song characteristics, playlist placements, and seasonal trends** influence streaming performance.
