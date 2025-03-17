@@ -2,14 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='mailto:sailesh.dwivedy@colorado.edu'>sailesh.dwivedy@colorado.edu</a>. Boulder, CO
+subtitle: <a href='mailto:sailesh.dwivedy@colorado.edu'>sailesh.dwivedy@colorado.edu</a>. United States
 
 profile:
   align: right
   image: sailesh_pic_nyc.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Address: 1475, Folsom St, Boulder, Colorado, 80302</p>
+    <p>Seeking Full Time Opportunities in AI/ML starting May 2025.</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

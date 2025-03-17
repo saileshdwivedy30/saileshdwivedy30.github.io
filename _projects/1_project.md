@@ -11,9 +11,9 @@ category: work
     Source Code available in the repository
     Github handle: saileshdwivedy30
     Project: Spotify 2023 Streaming Analysis
-    [Deployed App]({{ "https://my-example-project-719255-kngkr5dp-ndjz2ws6la-ue.a.run.app/" | absolute_url }})  
-    [Demo Video]({{ "https://drive.google.com/file/d/13TnESRwxw4Eew5h-zCw-aM1MxVO8Ncld/view?usp=sharing" | absolute_url }})  
-    [Dataset Link]({{ "https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data" | absolute_url }})    
+    Deployed App: https://my-example-project-719255-kngkr5dp-ndjz2ws6la-ue.a.run.app/
+    Demo Video: https://drive.google.com/file/d/13TnESRwxw4Eew5h-zCw-aM1MxVO8Ncld/view?usp=sharing
+    Dataset Link: https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data     
     ---
 
 **Overview**
@@ -88,8 +88,8 @@ The app provides multiple **visualizations and insights** to understand streamin
 
 ### 5. **How Do Song Characteristics Affect Popularity?**
 
-      - **Energy vs. Streams, Danceability vs. Streams (Scatter Plots)**
-      - **Happiness (Valence) Analysis using Box Plot**
+      - Energy vs. Streams, Danceability vs. Streams (Scatter Plots)
+      - Happiness (Valence) Analysis using Box Plot
       - Identifying traits that define viral hits.
   
 <div class="row">
@@ -107,8 +107,8 @@ The app provides multiple **visualizations and insights** to understand streamin
 
 ### 6. **Influence of Playlist Placements on Streams**
 
-      - **Comparison of playlist placements on Spotify, Apple Music, Deezer.**
-      - **Scatter plot:** Does playlist exposure boost streaming numbers?
+      - Comparison of playlist placements on Spotify, Apple Music, Deezer.
+      - Scatter plot:** Does playlist exposure boost streaming numbers?
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -120,13 +120,13 @@ The app provides multiple **visualizations and insights** to understand streamin
 
 ### 7. **Seasonal Trends in Song Releases & Streaming**
 
-      - Monthly trends in **song releases** and **streaming activity**.
+      - Monthly trends in **song releases** and **streaming activity.
       - Identifying peak months for new releases.
 
 ### 8. **Key & Mode Distribution of Popular Songs**
 
-      - **Bar chart for most common musical keys.**
-      - **Pie chart analyzing major vs. minor modes in top songs.**
+      - Bar chart for most common musical keys.
+      - Pie chart analyzing major vs. minor modes in top songs.
 
 <div class="row">
      <div class="col-sm mt-3 mt-md-0">
