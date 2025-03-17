@@ -17,6 +17,7 @@ category: work
     ---
 
 **Overview**
+
 The **Spotify 2023 Streaming Analysis App** provides an **interactive** way to explore **top streamed songs, artists, and streaming trends**. This web-based tool allows users to analyze how song characteristics, playlist placements, and seasonal trends impact streaming performance.
 
 This project is built for **music analysts, data enthusiasts, and industry professionals** who want to gain insights from Spotify's 2023 streaming data.
@@ -26,24 +27,26 @@ For a detailed walkthrough, please check out the demo video above.
 ---
 
 **Dataset Overview**
+
 This project utilizes the **Most Streamed Spotify Songs 2023** dataset from **Kaggle** linked above.
 
 Key Dataset Features:
 
-- **Top streamed songs & artists**
-- **Streaming counts and ranking insights**
-- **Song attributes (BPM, energy, danceability, valence, etc.)**
-- **Playlist placements across streaming platforms**
+   - **Top streamed songs & artists**
+   - **Streaming counts and ranking insights**
+   - **Song attributes (BPM, energy, danceability, valence, etc.)**
+   - **Playlist placements across streaming platforms**
 
 ---
 
 **Features & Insights**
+
 The app provides multiple **visualizations and insights** to understand streaming trends:
 
 1. **Top Artists by Total Streams**
 
-- Bar chart showing the most streamed artists globally.
-- Analyze trends in artist dominance over the year.
+   - Bar chart showing the most streamed artists globally.
+   - Analyze trends in artist dominance over the year.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -54,63 +57,64 @@ The app provides multiple **visualizations and insights** to understand streamin
 2. **Most Streamed Songs**
 
    - Interactive chart of viral songs and long-lasting chart-toppers.
-   
-   <div class="row">
-       <div class="col-sm mt-3 mt-md-0">
-           {% include figure.liquid path="assets/img/p1_plot2.png" title="plot_2" class="img-fluid rounded z-depth-1" %}
-       </div>
-   </div>
+  
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/p1_plot2.png" title="plot_2" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 3. **Impact of BPM on Song Popularity**
 
    - Scatter plot analyzing the correlation between **tempo (BPM) and streams**.
    - Insights into whether high-energy or slow-tempo songs perform better.
 
-   <div class="row">
-       <div class="col-sm mt-3 mt-md-0">
-           {% include figure.liquid path="assets/img/p1_plot3.png" title="plot_3" class="img-fluid rounded z-depth-1" %}
-       </div>
-   </div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/p1_plot3.png" title="plot_3" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 4. **Trends in Song Releases Over the Years**
 
    - Line chart showing how song releases have evolved over time.
    - Impact of streaming platforms on independent artists.
 
-   <div class="row">
-       <div class="col-sm mt-3 mt-md-0">
-           {% include figure.liquid path="assets/img/p1_plot4.png" title="plot_4" class="img-fluid rounded z-depth-1" %}
-       </div>
-   </div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/p1_plot4.png" title="plot_4" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 5. **How Do Song Characteristics Affect Popularity?**
 
    - **Energy vs. Streams, Danceability vs. Streams (Scatter Plots)**
    - **Happiness (Valence) Analysis using Box Plot**
    - Identifying traits that define viral hits.
-
-   <div class="row">
-       <div class="col-sm mt-3 mt-md-0">
-           {% include figure.liquid path="assets/img/p1_plot5.png" title="plot_5" class="img-fluid rounded z-depth-1" %}
-       </div>
-   </div>
+  
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/p1_plot5.png" title="plot_5" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
    
-   <div class="row">
-       <div class="col-sm mt-3 mt-md-0">
-           {% include figure.liquid path="assets/img/p1_plot6.png" title="plot_6" class="img-fluid rounded z-depth-1" %}
-       </div>
-   </div>
+<div class="row">
+     <div class="col-sm mt-3 mt-md-0">
+         {% include figure.liquid path="assets/img/p1_plot6.png" title="plot_6" class="img-fluid rounded z-depth-1" %}
+     </div>
+</div>
 
 6. **Influence of Playlist Placements on Streams**
 
    - **Comparison of playlist placements on Spotify, Apple Music, Deezer.**
    - **Scatter plot:** Does playlist exposure boost streaming numbers?
 
-   <div class="row">
-       <div class="col-sm mt-3 mt-md-0">
-           {% include figure.liquid path="assets/img/p1_plot7.png" title="plot_7" class="img-fluid rounded z-depth-1" %}
-       </div>
-   </div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/p1_plot7.png" title="plot_7" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 
 
@@ -124,17 +128,17 @@ The app provides multiple **visualizations and insights** to understand streamin
    - **Bar chart for most common musical keys.**
    - **Pie chart analyzing major vs. minor modes in top songs.**
 
-   <div class="row">
-       <div class="col-sm mt-3 mt-md-0">
-           {% include figure.liquid path="assets/img/p1_plot8.png" title="plot_8" class="img-fluid rounded z-depth-1" %}
-       </div>
-   </div>
+<div class="row">
+     <div class="col-sm mt-3 mt-md-0">
+         {% include figure.liquid path="assets/img/p1_plot8.png" title="plot_8" class="img-fluid rounded z-depth-1" %}
+     </div>
+</div>
 
-   <div class="row">
-       <div class="col-sm mt-3 mt-md-0">
-           {% include figure.liquid path="assets/img/p1_plot9.png" title="plot_9" class="img-fluid rounded z-depth-1" %}
-       </div>
-   </div>
+<div class="row">
+     <div class="col-sm mt-3 mt-md-0">
+         {% include figure.liquid path="assets/img/p1_plot9.png" title="plot_9" class="img-fluid rounded z-depth-1" %}
+     </div>
+</div>
 
 ---
 
