@@ -22,7 +22,7 @@ The **Spotify 2023 Streaming Analysis App** provides an **interactive** way to e
 
 This project is built for **music analysts, data enthusiasts, and industry professionals** who want to gain insights from Spotify's 2023 streaming data.
 
-For a detailed walkthrough, please check out the demo video above.
+For a detailed walkthrough, please check out the demo video above. <a href="https://drive.google.com/file/d/13TnESRwxw4Eew5h-zCw-aM1MxVO8Ncld/view?usp=sharing" target="_blank">Watch Demo</a>
 
 ---
 
