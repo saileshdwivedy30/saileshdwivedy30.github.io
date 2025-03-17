@@ -18,9 +18,9 @@ social: true # includes social icons at the bottom of the page
 
 Hello! I’m a Master’s student in **Computer Science** (Research Track) at the **University of Colorado Boulder**, with a 4.0 GPA. My work focuses on pushing the boundaries of **Machine Learning**, **Natural Language Processing (NLP)**, **Computer Vision**, and **Generative AI**.
 
-Currently, I’m working under <a href='https://dannagurari.colorado.edu/'> <b>Prof. Danna Gurari</b></a> at the Image and Video Computing Lab on **Knowledge Distillation for Model Compression**. This project aims to develop efficient AI models that preserve accuracy while significantly reducing computational demands, contributing to cutting-edge advancements in AI optimization. This work has been submitted to **CVPR 2025**.
+Currently, I’m working under <a href='https://dannagurari.colorado.edu/'> <b>Prof. Danna Gurari</b></a> at the Image and Video Computing Lab on **Knowledge Distillation for Model Compression**. This project aims to develop efficient AI models that preserve accuracy while significantly reducing computational demands, contributing to cutting-edge advancements in AI optimization. This work will be submitted to **NeurIPS 2025**.
 
-Previously, as a **Data Scientist** with **3 years exp.** at HighRadius Technologies, I:
+Previously, as a **Data Scientist** with **4+ years exp.** at HighRadius Technologies, I:
 
 1. Built and deployed **AI-driven solutions** that enhanced financial workflows for Fortune 500 clients, reducing response times by 40% and boosting dollar recovery rates by 12%.
 2. Led end-to-end **NLP projects** like Smart Email Composer, leveraging **Generative AI** for tailored responses.

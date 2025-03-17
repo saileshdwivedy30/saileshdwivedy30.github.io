@@ -8,15 +8,15 @@ category: work
 ---
 
     ---
-      Source Code available in the repository
-      Github handle: saileshdwivedy30
-      Project: Spotify 2023 Streaming Analysis
-      Deployed App: https://my-example-project-719255-kngkr5dp-ndjz2ws6la-ue.a.run.app/
-      Demo Video: https://drive.google.com/file/d/13TnESRwxw4Eew5h-zCw-aM1MxVO8Ncld/view?usp=sharing
-      Dataset Link: https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data
+    Source Code available in the repository
+    Github handle: saileshdwivedy30
+    Project: Spotify 2023 Streaming Analysis
+    Deployed App: https://my-example-project-719255-kngkr5dp-ndjz2ws6la-ue.a.run.app/
+    Demo Video: https://drive.google.com/file/d/13TnESRwxw4Eew5h-zCw-aM1MxVO8Ncld/view?usp=sharing
+    Dataset Link: https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data    
     ---
 
-**Overview**\
+**Overview**
 The **Spotify 2023 Streaming Analysis App** provides an **interactive** way to explore **top streamed songs, artists, and streaming trends**. This web-based tool allows users to analyze how song characteristics, playlist placements, and seasonal trends impact streaming performance.
 
 This project is built for **music analysts, data enthusiasts, and industry professionals** who want to gain insights from Spotify's 2023 streaming data.
@@ -25,7 +25,7 @@ For a detailed walkthrough, please check out the demo video above.
 
 ---
 
-**Dataset Overview**\
+**Dataset Overview**
 This project utilizes the **Most Streamed Spotify Songs 2023** dataset from **Kaggle** linked above.
 
 Key Dataset Features:
@@ -37,19 +37,19 @@ Key Dataset Features:
 
 ---
 
-**Features & Insights**\
+**Features & Insights**
 The app provides multiple **visualizations and insights** to understand streaming trends:
 
 1. **Top Artists by Total Streams**
 
-   - Bar chart showing the most streamed artists globally.
-   - Analyze trends in artist dominance over the year.
+- Bar chart showing the most streamed artists globally.
+- Analyze trends in artist dominance over the year.
 
-   <div class="row">
-       <div class="col-sm mt-3 mt-md-0">
-           {% include figure.liquid path="assets/img/p1_plot1.png" title="Plot_1" class="img-fluid rounded z-depth-1" %}
-       </div>
-   </div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/p1_plot1.png" title="Plot_1" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 2. **Most Streamed Songs**
 
@@ -100,9 +100,6 @@ The app provides multiple **visualizations and insights** to understand streamin
            {% include figure.liquid path="assets/img/p1_plot6.png" title="plot_6" class="img-fluid rounded z-depth-1" %}
        </div>
    </div>
-
-
-
 
 6. **Influence of Playlist Placements on Streams**
 
