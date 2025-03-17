@@ -2,7 +2,7 @@
 layout: page
 title: Spotify 2023 Streaming Analysis
 description: Exploring the most streamed artists, songs, and industry trends of 2023 through interactive data visualization.
-img: assets/img/spotify\_analysis.png
+img: assets/img/Spotify_analysis.jpeg
 importance: 1
 category: work
 ---
