@@ -11,9 +11,6 @@ category: work
     Source Code available in the repository
     Github handle: saileshdwivedy30
     Project: Spotify 2023 Streaming Analysis
-    Deployed App: https://my-example-project-719255-kngkr5dp-ndjz2ws6la-ue.a.run.app/
-    Demo Video: https://drive.google.com/file/d/13TnESRwxw4Eew5h-zCw-aM1MxVO8Ncld/view?usp=sharing
-    Dataset Link: https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data
     ---
 
 Deployed App: <a href="https://my-example-project-719255-kngkr5dp-ndjz2ws6la-ue.a.run.app/" target="_blank">Click here</a>\
