@@ -13,7 +13,7 @@ category: work
     ---
 
 Source Code: <a href="https://github.com/saileshdwivedy30/Ask-My-Email">Click here</a>\
-Demo Video: <a href="https://www.youtube.com/watch?v=3kpnK6ljzY8">Watch Demo</a>\
+Demo Video: <a href="https://www.youtube.com/watch?v=3kpnK6ljzY8">Watch Demo</a>
 
 ## **Overview**
 **AskMyEmail is an AI-powered chatbot that enables intelligent search and interaction with your emails** through **Retrieval-Augmented Generation (RAG)**.  
