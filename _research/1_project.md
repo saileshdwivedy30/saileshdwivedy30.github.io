@@ -1,73 +1,73 @@
 ---
 layout: page
-title: Instruction-Tuned LLMs for Event Extraction
+title: Knowledge Distillation Without Cross-Entropy
 importance: 1
-description: Research on enhancing event extraction using instruction-tuned large language models (LLMs), optimizing annotation guidelines, and improving fine-tuning techniques for NLP tasks.
-img: assets/img/EE_Research.gif
+description: Research on eliminating logit-based loss in knowledge distillation via intelligent layer selection, enhancing training efficiency and model accuracy for computer vision.
+img: assets/img/KD_Research.gif
 category: Machine Learning and AI
 ---
-    ---
-    Research conducted at George Mason University (GMU) - Natural Language Processing Lab
-    Research Supervisor: Professor Ziyu Yao
-    Conference Submission: ACL 2025
-    ---
 
 ---
+Research conducted at The University of Colorado, Boulder  
+Research Supervisor: Professor Danna Gurari and PhD Nick Cooper 
+Conference Submission: NeurIPS 2025  
+---
+
+---
+
 ## **📜 Research Paper & Resources**
-- **ACL 2025 Submission**: *Instruction-Tuning LLMs for Event Extraction with Annotation Guidelines* (Pending Review)
-- **Research Institution**: George Mason University (GMU), NLP Lab 
-- **Focus Area**: **Event Extraction**, **Instruction-Tuned LLMs**, **Annotation Guideline Generation**
+- **NeurIPS 2025 Submission**: *Towards Knowledge Distillation Without Cross-Entropy* (Under Review)
+- **Research Institution**: University of Colorado, Boulder  
+- **Focus Area**: **Knowledge Distillation**, **Intermediate Layer Learning**, **Logit-Free Training**
 - **Code Repository**: *(Coming Soon!)*
-- **Dataset & Annotation Guidelines**: *(Coming Soon!)*
+- **Project Page & Resources**: *(Coming Soon!)*
 
 ---
 
 ## **🛠 Tech Stack & Tools**
-- **Machine Learning & NLP**: LLaMA-3.1, Hugging Face Transformers, PyTorch, LoRA Fine-Tuning, Unsloth, Quantization
-- **Data Processing**: JSON, Python (Pandas, Numpy)
-- **GPU Resources**: HPC, CUDA
-- **Evaluation Metrics**: Precision, Recall, F1-score
+- **Machine Learning & CV**: PyTorch, TorchVision, Vision Transformers (ViTs), VGG, ResNet  
+- **Optimization**: Adam, One-cycle LR, PCA, SVD  
+- **Datasets**: CIFAR-10, CIFAR-100, Tiny ImageNet  
+- **Evaluation Metrics**: Accuracy, ARI, Training Efficiency (% Epochs Reduced)
 
 ---
 
 ## **📖 Research Overview**
 
-This research explores the **enhancement of event extraction (EE) tasks** by leveraging **instruction-tuned large language models (LLMs)**. Traditional event extraction models struggle with **limited training data, ambiguous event definitions, and scalability**. To address these challenges, our approach:
+This research introduces a novel **knowledge distillation method that eliminates the need for logit-based losses** (cross-entropy) when training student models. Traditional approaches use logits as the primary supervisory signal, but they often conflict with **intermediate layer knowledge**.
 
-- **Synthesizes annotation guidelines** for **500+ event types** and **4000+ argument structures**  
-- **Fine-tunes LLaMA-3.1 8B** using **LoRA and structured regularization techniques**  
-- **Develops an evaluation framework** for optimizing inference speed and cost efficiency  
-- **Reduces hallucinations** by transforming text-based evaluations into **code-based prompt optimization**  
-
-This work aims to improve **F1-score performance** on **event extraction tasks** and **enhance the reliability** of LLM-generated event predictions.
+To solve this, our method:
+- Proposes a **novel Knowledge Quality (KQ) metric** to select optimal teacher layers  
+- Trains student backbones using only **intermediate feature loss** and **removes CE losses.** 
+- Achieves improved performance across CNNs and ViTs on **image classification tasks**
 
 ---
 
 ## **📊 Major Contributions**
 
-### **1. Annotation Guideline Optimization**
-- Developed a structured framework for creating **high-quality event extraction annotation guidelines**.
-- Synthesized event schema covering **500+ event types** and **4000+ argument structures** using **GPT-4o**.
+### **1. Logit-Free Knowledge Distillation**
+- First method to train student backbones **without any logit-based loss (CE)**  
+- Demonstrates significant gains in **training stability and generalization**
 
-### **2. LLM Fine-Tuning & Optimization**
-- Implemented **Low-Rank Adaptation (LoRA)** for **fine-tuning LLaMA-3.1 8B** on event extraction tasks using **unsloth** library.
-- Improved **model efficiency** using **structured regularization** techniques.
+### **2. Knowledge Quality Metric for Layer Selection**
+- Achieves superior performance when selecting teacher layers using this metric
 
-### **3. Cost-Effective & Low-Latency Inference Pipelines**
-- Designed a **scalable NLP pipeline** using **GPU-optimized environments**.
-- Optimized inference by **reducing hallucination through implicit prompt engineering** guided by annotations for each event type.
+### **3. Significant Accuracy & Efficiency Gains**
+- Boosted **top-1 accuracy up to 15%** over baselines  
+- Reduced training time by **up to 80%** across datasets and model pairs  
 
-### **4. Performance Improvement**
-- Achieved a **10% increase in F1-score** compared to traditional event extraction baselines.
-- Enhanced the **generalization ability** of instruction-tuned LLMs across multiple datasets.
-
----
-
-## **Future Work & Applications**
-**Expanding dataset coverage** to include **multi-domain event extraction** tasks  
-**Exploring multimodal event extraction** by integrating **text, images, and video content**  
+### **4. Robust Evaluation Across Architectures**
+- Validated approach on **VGG, ResNet, MobileNet, ViTs**  
+- Proved effectiveness across small and large-scale image datasets
 
 ---
 
-*For collaboration or inquiries, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sweta-pati/) or [Email](mailto:spati@gmu.edu).*
+## **🚀 Future Work & Applications**
 
+- Extend KQ metric to **multi-teacher/multi-task settings**  
+- Explore applicability to **language models and multimodal learning**  
+- Develop **lightweight mobile-compatible student models** for real-time inference  
+
+---
+
+*For collaboration, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/saileshdwivedy/) or [Email](mailto:sailesh.dwivedy@colorado.edu).*
