@@ -5,7 +5,7 @@ permalink: /research/
 description: Sharing my research experience.
 nav: true
 nav_order: 3
-display_categories: [Machine Learning and AI]
+display_categories: [AI and Machine Learning]
 horizontal: false
 ---
 

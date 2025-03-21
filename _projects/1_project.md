@@ -4,7 +4,7 @@ title: ImageSense AI - Image Search Quality Optimization
 description: An AI-powered image search engine that enhances search capabilities by integrating Large Language Models (LLMs) to better understand user intent and deliver more relevant search results.
 img: assets/img/imagesense_ai.gif
 importance: 1
-category: work
+category: AI and ML
 ---
     ---
     Source Code available in the repository

@@ -4,7 +4,7 @@ title: AskMyEmail - DeepSeek AI-Powered Email RAG Chatbot
 description: An AI-powered Retrieval-Augmented Generation (RAG) chatbot that retrieves, analyzes, and chats with your emails using intelligent search and response generation.
 img: assets/img/deepseek_email_rag.jpeg
 importance: 3
-category: work
+category: AI and ML
 ---
     ---
     Source Code available in the repository
