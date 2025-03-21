@@ -3,13 +3,13 @@ layout: page
 title: Knowledge Distillation Without Cross-Entropy
 importance: 1
 description: Research on eliminating logit-based loss in knowledge distillation via intelligent layer selection, enhancing training efficiency and model accuracy for computer vision.
-img: assets/img/KD_Research.gif
-category: Machine Learning and AI
+img: assets/img/kd_image.png
+category: AI and Machine Learning
 ---
 
 ---
 Research conducted at The University of Colorado, Boulder  
-Research Supervisor: Professor Danna Gurari and PhD Nick Cooper 
+Research Supervisor: Professor Danna Gurari and PhD Nick Cooper\
 Conference Submission: NeurIPS 2025  
 ---
 
