@@ -11,7 +11,7 @@ category: AI and Machine Learning
 Research conducted at The University of Colorado, Boulder  
 Research Supervisor: Professor Danna Gurari and PhD Nick Cooper\
 Conference Submission: NeurIPS 2025  
----
+
 
 ---
 
