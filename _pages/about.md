@@ -17,9 +17,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! I’m **Sailesh Dwivedy**, an AI/ML Engineer with 5+ years of experience developing, deploying, and scaling production-ready solutions in **Generative AI**, **LLM fine-tuning**, **RAG**, **Agentic AI**, **audio ML**, **NLP**, and **Machine Learning**. I bring a unique blend of research-backed innovation and industry execution, having built and shipped AI systems across healthcare, finance, and academic domains for Fortune 500 clients.
+Hello! I’m **Sailesh Dwivedy**, an AI/ML Engineer with 5+ years of experience developing, deploying, and scaling production-ready solutions in **Generative AI**, **LLM fine-tuning**, **RAG**, **Agentic AI**, **audio ML**, **NLP**, and **Machine Learning**. I bring a unique blend of research-driven innovation and industry execution, having built and deployed AI systems across healthcare, finance, and academic domains for Fortune 500 clients.
 
-You can connect with me on<a href="https://www.linkedin.com/in/saileshdwivedy/" target="_blank" style="font-weight:bold;"> LinkedIn</a>
+You can connect with me on <a href="https://www.linkedin.com/in/saileshdwivedy/" target="_blank" style="font-weight:bold;">LinkedIn</a>
 
 ---
 
@@ -27,9 +27,9 @@ You can connect with me on<a href="https://www.linkedin.com/in/saileshdwivedy/" 
 
 I specialize in **LLM fine-tuning**, **Retrieval-Augmented Generation (RAG)**, **Agentic AI**, **knowledge distillation**, and **on-device audio ML**, combining practical development expertise with research-oriented rigor.
 
-- Currently working as an **AI/ML Applied Scientist at NeuroSpring**, where I build on-device deep learning models for speech abnormality detection using **PyTorch** and **Hugging Face**. I also developed an **Agentic RAG chatbot** that enables physicians to query patient PDFs with grounded responses, reducing clinical triage time by **60%**.
+- Currently working as an **AI/ML Applied Scientist** at **NeuroSpring**, where I build on-device deep learning models for speech abnormality detection using **PyTorch** and **Hugging Face**. I also developed an **Agentic RAG chatbot** that enables physicians to query patient PDFs with grounded responses, reducing clinical triage time by **60%**.
 
-- As a **Graduate AI/ML Engineer** at the **Image and Video Computing Lab, University of Colorado Boulder**, I fine-tuned vision models and developed a novel **knowledge distillation** technique for computer vision. This layer selection strategy achieved **80% training efficiency** and **15% accuracy gain over SOTA** models and was submitted to **NeurIPS 2025**.
+- As a **Graduate AI/ML Engineer** at the **Image and Video Computing Lab, University of Colorado Boulder**, I fine-tuned vision models and developed a novel **knowledge distillation** technique for computer vision. This layer selection strategy achieved **80% training efficiency** and **15% accuracy gain over SOTA** models, and was submitted to **NeurIPS 2025**.
 
 - As an **NLP Research Associate**, I contributed to **SemEval 2023 Task 3** by fine-tuning multilingual BERT models for news genre classification using PyTorch and Hugging Face, tackling challenges in multi-label and cross-lingual NLP.
 
@@ -65,7 +65,7 @@ I enjoy building systems that make unstructured data usable, interpretable, and 
 
 #### Education
 
-I hold a **Master’s degree in Computer Science (Research Track)** from **University of Colorado Boulder**.
+I hold a **Master’s degree in Computer Science (Research Track)** from the **University of Colorado Boulder**.
 
 ---
 
