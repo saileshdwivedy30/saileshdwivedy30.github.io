@@ -13,7 +13,6 @@ category: AI and ML
     Project: Spotify 2023 Streaming Analysis
     ---
 
-Deployed App: <a href="https://my-example-project-719255-kngkr5dp-ndjz2ws6la-ue.a.run.app/" target="_blank">Click here</a>\
 Demo Video: <a href="https://drive.google.com/file/d/13TnESRwxw4Eew5h-zCw-aM1MxVO8Ncld/view?usp=sharing" target="_blank">Watch Demo</a>\
 Dataset Link: <a href="https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data" target="_blank">View Dataset</a>
 
