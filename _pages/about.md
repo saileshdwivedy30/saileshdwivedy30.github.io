@@ -21,9 +21,11 @@ social: true # includes social icons at the bottom of the page
 
 Hello! I’m **Sailesh Dwivedy**, an AI/ML Engineer with 5+ years of experience developing, deploying, and scaling production-ready solutions in **Generative AI**, **LLM fine-tuning**, **RAG**, **Agentic AI**, **audio ML**, **NLP**, and **Machine Learning**. I bring a unique blend of research-backed innovation and industry execution, having built and shipped AI systems across healthcare, finance, and academic domains for Fortune 500 clients.
 
+You can connect with me on<a href="https://www.linkedin.com/in/saileshdwivedy/" target="_blank" style="font-weight:bold;"> LinkedIn</a>
+
 ---
 
-### Industry & Research Experience
+#### Industry & Research Experience
 
 I specialize in **LLM fine-tuning**, **Retrieval-Augmented Generation (RAG)**, **Agentic AI**, **knowledge distillation**, and **on-device audio ML**, combining practical development expertise with research-oriented rigor.
 
@@ -37,24 +39,24 @@ Prior to that, I spent 3.5 years as a **Lead AI/ML Engineer at HighRadius Techno
 
 ---
 
-### Technical Interests & Expertise
+#### Technical Interests & Expertise
 
-#### Large Language Models (LLMs)
+##### Large Language Models (LLMs)
 
 - Fine-tuned and evaluated **Transformer-based models** like **LLaMA**, **GPT**, and **BERT** using **LoRA**, **QLoRA**, **PEFT**, and **instruction tuning**.  
 - Applied **prompt engineering** and **task-specific adapters** to optimize performance in constrained compute settings.
 
-#### Generative AI & Agentic Systems
+##### Generative AI & Agentic Systems
 
 - Built **RAG pipelines** and **agentic chatbots** using **LangChain**, **LlamaIndex**, and **OpenAI APIs**.  
 - Integrated **document-grounded reasoning** and **tool-calling** to enable auditable, context-aware LLM interactions.
 
-#### Machine Learning & Audio/Computer Vision
+##### Machine Learning & Audio/Computer Vision
 
 - Designed **classification**, **regression**, and **sequence models** for financial forecasting and medical applications.  
 - Engineered **audio signal processing pipelines** and developed **knowledge distillation** strategies for model compression and efficiency.
 
-#### MLOps & Scalable Deployment
+##### MLOps & Scalable Deployment
 
 - Deployed models using **Docker**, **Kubernetes**, and **Vertex AI** across **GCP**, **Azure**, and **AWS**.  
 - Built **CI/CD pipelines** and **reproducible workflows** using **MLflow**, **Weights & Biases**, and cloud-native orchestration tools.
@@ -63,14 +65,14 @@ I enjoy building systems that make unstructured data usable, interpretable, and 
 
 ---
 
-## Education
+#### Education
 
 I hold a **Master’s degree in Computer Science (Research Track)** from **University of Colorado Boulder**.
 
 ---
 
-## Actively Seeking
+#### Actively Seeking
 
 I am actively pursuing **full-time opportunities** in **AI/ML**, **NLP**, or **GenAI** roles. With experience in both research labs and enterprise environments, I’m excited to bring my expertise in production-grade AI systems.
 
-📫 Reach out: <a href='mailto:sdwivedy30@gmail.com'>sdwivedy30@gmail.com</a>
+📫 Feel free to reach out: <a href='mailto:sdwivedy30@gmail.com'>sdwivedy30@gmail.com</a>
