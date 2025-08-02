@@ -17,8 +17,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
----
-
 Hello! I’m **Sailesh Dwivedy**, an AI/ML Engineer with 5+ years of experience developing, deploying, and scaling production-ready solutions in **Generative AI**, **LLM fine-tuning**, **RAG**, **Agentic AI**, **audio ML**, **NLP**, and **Machine Learning**. I bring a unique blend of research-backed innovation and industry execution, having built and shipped AI systems across healthcare, finance, and academic domains for Fortune 500 clients.
 
 You can connect with me on<a href="https://www.linkedin.com/in/saileshdwivedy/" target="_blank" style="font-weight:bold;"> LinkedIn</a>
@@ -29,13 +27,13 @@ You can connect with me on<a href="https://www.linkedin.com/in/saileshdwivedy/" 
 
 I specialize in **LLM fine-tuning**, **Retrieval-Augmented Generation (RAG)**, **Agentic AI**, **knowledge distillation**, and **on-device audio ML**, combining practical development expertise with research-oriented rigor.
 
-Currently, I work as an **AI/ML Applied Scientist at NeuroSpring**, where I build on-device AI deep learning model for speech abnormality detection using PyTorch and Hugging Face. I also developed an **Agentic RAG chatbot** that enables physicians to query patient PDFs through a chat interface, delivering GPT-4-generated answers grounded to sentence-level document evidence—reducing clinical triage time by **60%**.
+    - Currently working as an **AI/ML Applied Scientist at NeuroSpring**, where I build on-device deep learning models for speech abnormality detection using **PyTorch** and **Hugging Face**. I also developed an **Agentic RAG chatbot** that enables physicians to query patient PDFs with grounded responses, reducing clinical triage time by **60%**.
 
-Previously, I was a **Graduate AI/ML Engineer** at the **Image and Video Computing Lab, University of Colorado Boulder**, where I developed novel **knowledge distillation** techniques for computer vision. Our layer selection strategy achieved **80% training efficiency** and **15% accuracy gain over SOTA** models and was submitted to **NeurIPS 2025**.
+    - As a **Graduate AI/ML Engineer** at the **Image and Video Computing Lab, University of Colorado Boulder**, I fine-tuned vision models and developed a novel **knowledge distillation** technique for computer vision. This layer selection strategy achieved **80% training efficiency** and **15% accuracy gain over SOTA** models and was submitted to **NeurIPS 2025**.
 
-I also contributed to **SemEval 2023 Task 3** as an **NLP Research Associate**, where I fine-tuned multilingual BERT models for news genre classification using PyTorch and Hugging Face, tackling challenges in multi-label and cross-lingual NLP.
+    - As an **NLP Research Associate**, I contributed to **SemEval 2023 Task 3** by fine-tuning multilingual BERT models for news genre classification using PyTorch and Hugging Face, tackling challenges in multi-label and cross-lingual NLP.
 
-Prior to that, I spent 3.5 years as a **Lead AI/ML Engineer at HighRadius Technologies**, building end-to-end ML systems for global Fortune 500 clients including **Nestlé, Uber, Clorox**, and **Kraft Heinz**. I deployed a **GenAI-powered Smart Email Composer**, improved deduction recovery by **12%**, and reduced **DSO by 30%** using predictive modeling. I also led a team of 10 engineers across 15+ production ML projects and mentored over 50 interns.
+    - Previously, spent 3.5+ years as a **Lead AI/ML Engineer** at **HighRadius Technologies**, where I built and deployed ML pipelines for Fortune 500 clients like **Nestlé**, **Uber**, and **Kraft Heinz**. I implemented a **GenAI-powered Smart Email Composer**, improved deduction recovery by **12%**, reduced **DSO by 30%**, and led a team of 10 across 15+ production ML projects and mentored over 50 interns in Data Science projects.
 
 ---
 

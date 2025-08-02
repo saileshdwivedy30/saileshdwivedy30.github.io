@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hugging Face-AI Agents Course
+title: Hugging Face - AI Agents Course
 importance: 1
 description: Completed short course by DeepLearning.AI focused on agentic workflows for automating document processing using RAG and human-in-the-loop strategies.
 img: assets/img/cert_1_agentic_ai_hf1.png
