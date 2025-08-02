@@ -27,13 +27,13 @@ You can connect with me on<a href="https://www.linkedin.com/in/saileshdwivedy/" 
 
 I specialize in **LLM fine-tuning**, **Retrieval-Augmented Generation (RAG)**, **Agentic AI**, **knowledge distillation**, and **on-device audio ML**, combining practical development expertise with research-oriented rigor.
 
-    - Currently working as an **AI/ML Applied Scientist at NeuroSpring**, where I build on-device deep learning models for speech abnormality detection using **PyTorch** and **Hugging Face**. I also developed an **Agentic RAG chatbot** that enables physicians to query patient PDFs with grounded responses, reducing clinical triage time by **60%**.
+- Currently working as an **AI/ML Applied Scientist at NeuroSpring**, where I build on-device deep learning models for speech abnormality detection using **PyTorch** and **Hugging Face**. I also developed an **Agentic RAG chatbot** that enables physicians to query patient PDFs with grounded responses, reducing clinical triage time by **60%**.
 
-    - As a **Graduate AI/ML Engineer** at the **Image and Video Computing Lab, University of Colorado Boulder**, I fine-tuned vision models and developed a novel **knowledge distillation** technique for computer vision. This layer selection strategy achieved **80% training efficiency** and **15% accuracy gain over SOTA** models and was submitted to **NeurIPS 2025**.
+- As a **Graduate AI/ML Engineer** at the **Image and Video Computing Lab, University of Colorado Boulder**, I fine-tuned vision models and developed a novel **knowledge distillation** technique for computer vision. This layer selection strategy achieved **80% training efficiency** and **15% accuracy gain over SOTA** models and was submitted to **NeurIPS 2025**.
 
-    - As an **NLP Research Associate**, I contributed to **SemEval 2023 Task 3** by fine-tuning multilingual BERT models for news genre classification using PyTorch and Hugging Face, tackling challenges in multi-label and cross-lingual NLP.
+- As an **NLP Research Associate**, I contributed to **SemEval 2023 Task 3** by fine-tuning multilingual BERT models for news genre classification using PyTorch and Hugging Face, tackling challenges in multi-label and cross-lingual NLP.
 
-    - Previously, spent 3.5+ years as a **Lead AI/ML Engineer** at **HighRadius Technologies**, where I built and deployed ML pipelines for Fortune 500 clients like **Nestlé**, **Uber**, and **Kraft Heinz**. I implemented a **GenAI-powered Smart Email Composer**, improved deduction recovery by **12%**, reduced **DSO by 30%**, and led a team of 10 across 15+ production ML projects and mentored over 50 interns in Data Science projects.
+- Previously, spent 3.5+ years as a **Lead AI/ML Engineer** at **HighRadius Technologies**, where I built and deployed ML pipelines for Fortune 500 clients like **Nestlé**, **Uber**, and **Kraft Heinz**. I implemented a **GenAI-powered Smart Email Composer**, improved deduction recovery by **12%**, reduced **DSO by 30%**, and led a team of 10 across 15+ production ML projects and mentored over 50 interns in Data Science projects.
 
 ---
 
