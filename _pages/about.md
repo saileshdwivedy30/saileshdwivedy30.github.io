@@ -9,7 +9,7 @@ profile:
   image: sailesh_pic_nyc.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Seeking full-time opportunities in AI/ML (currently on F1 OPT).</p>
+    <p>ML Engineer at Central Mutual Insurance.</p>
     <p><a href="/assets/pdf/Sailesh_Resume.pdf" target="_blank" style="font-weight:bold;"> Resume (PDF)</a></p>
 
 news: true # includes a list of news items
@@ -17,60 +17,56 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! I’m **Sailesh Dwivedy**, an AI/ML Engineer with 5+ years of experience developing, deploying, and scaling production-ready solutions in **Generative AI**, **LLM fine-tuning**, **RAG**, **Agentic AI**, **audio ML**, **NLP**, and **Machine Learning**. I bring a unique blend of research-driven innovation and industry execution, having built and deployed AI systems across healthcare, finance, and academic domains for Fortune 500 clients.
+I build AI systems that have to earn trust, not just accuracy: claims agents an auditor will sign off on, clinical notes a paramedic can rely on mid-shift.
+
+I'm an **AI/ML Engineer** with 5+ years building and deploying production ML, GenAI, and multi-agent systems across insurance, healthcare, and finance. My work spans agentic architectures, LLM fine-tuning, and MLOps, with a consistent focus on making these systems auditable, explainable, and reliable enough for high-stakes, real-world use, not just accurate in a demo.
 
 You can connect with me on <a href="https://www.linkedin.com/in/saileshdwivedy/" target="_blank" style="font-weight:bold;">LinkedIn</a>
 
 ---
 
-#### Industry & Research Experience
+#### Experience
 
-I specialize in **LLM fine-tuning**, **Retrieval-Augmented Generation (RAG)**, **Agentic AI**, **knowledge distillation**, and **on-device audio ML**, combining practical development expertise with research-oriented rigor.
+**ML Engineer, Central Mutual Insurance** *(Mar 2026 – Present)*
 
-- Currently working as an **AI/ML Applied Scientist** at **NeuroSpring**, where I build on-device deep learning models for speech abnormality detection using **PyTorch** and **Hugging Face**. I also developed an **Agentic RAG chatbot** that enables physicians to query patient PDFs with grounded responses, reducing clinical triage time by **60%**.
+Building production multi-agent AI systems for insurance claims. Architected a **Claims Leakage Auditor** that coordinates eight specialist agents across live claim and policy data to cut manual review time by **90%**, and a **Claims Summarizer** that generates source-grounded liability reports, cutting report generation time by **83%**. Focused on reliability at scale: human-in-the-loop verification, resilient agent harnesses, and full observability into cost, latency, and failure.
 
-- As a **Graduate AI/ML Engineer** at the **Image and Video Computing Lab, University of Colorado Boulder**, I fine-tuned vision models and developed a novel **knowledge distillation** technique for computer vision. This layer selection strategy achieved **80% training efficiency** and **15% accuracy gain over SOTA** models, and was submitted to **NeurIPS 2025**.
+**AI/ML Engineer Intern, NeuroSpring** *(Jun 2025 – Mar 2026)*
 
-- As an **NLP Research Associate**, I contributed to **SemEval 2023 Task 3** by fine-tuning multilingual BERT models for news genre classification using PyTorch and Hugging Face, tackling challenges in multi-label and cross-lingual NLP.
+Built ML and GenAI systems for healthcare, centered on speech analysis and clinical documentation. Developed slurred-speech detection models reaching **85% F1** with SHAP-based interpretability for clinical trust, and fine-tuned a clinical LLM to help paramedics draft field notes and retrieve guidelines in real time.
 
-- Previously, spent 3.5+ years as a **Lead AI/ML Engineer** at **HighRadius Technologies**, where I built and deployed ML pipelines for Fortune 500 clients like **Nestlé**, **Uber**, and **Kraft Heinz**. I implemented a **GenAI-powered Smart Email Composer**, improved deduction recovery by **12%**, reduced **DSO by 30%**, and led a team of 10 across 15+ production ML projects and mentored over 50 interns in Data Science projects.
+**Volunteer Graduate AI/ML Researcher, Image and Video Computing Lab, University of Colorado Boulder** *(May 2024 – Dec 2024)*
+
+Researched knowledge distillation for CNNs and Vision Transformers, co-authoring a **NeurIPS 2025 paper** on logit-free training. Designed a novel layer-selection metric that improved accuracy by **15%** and cut training time by **80%**.
+
+**Volunteer NLP Research Associate, Kalinga Institute of Industrial Technology** *(Feb 2023 – Aug 2023)*
+
+Conducted applied research on transformer-based document parsing for business documents, benchmarking modern layout-aware models against OCR and earlier baselines and achieving **5 to 10% accuracy gains** in structured field extraction.
+
+**Associate Software Engineer II (Data Science), HighRadius Technologies** *(Jul 2019 – Feb 2023)*
+
+Led a 10-member team delivering production ML systems for Fortune 500 clients including **Nestlé**, **Uber**, and **Kraft Heinz**, spanning fraud detection, payment prediction, and cash forecasting. Improved dollar recovery by **12%**, reduced DSO by **30%**, and mentored **50+ interns**.
 
 ---
 
-#### Technical Interests & Expertise
+#### Tech Skills
 
-##### Large Language Models (LLMs)
+**Languages & ML:** Python, SQL, PyTorch, Scikit-learn
 
-- Fine-tuned and evaluated **Transformer-based models** like **LLaMA**, **GPT**, and **BERT** using **LoRA**, **QLoRA**, **PEFT**, and **instruction tuning**.  
-- Applied **prompt engineering** and **task-specific adapters** to optimize performance in constrained compute settings.
+**Agentic AI & RAG:** LangChain, LangGraph, Deep Agents, MCP, Vector Search, Evaluation & Observability
 
-##### Generative AI & Agentic Systems
+**GenAI & NLP:** Hugging Face, Transformers, Fine-tuning (LoRA/QLoRA), RLHF
 
-- Built **RAG pipelines** and **agentic chatbots** using **LangChain**, **LlamaIndex**, and **OpenAI APIs**.  
-- Integrated **document-grounded reasoning** and **tool-calling** to enable auditable, context-aware LLM interactions.
-
-##### Machine Learning & Audio/Computer Vision
-
-- Designed **classification**, **regression**, and **sequence models** for financial forecasting and medical applications.  
-- Engineered **audio signal processing pipelines** and developed **knowledge distillation** strategies for model compression and efficiency.
-
-##### MLOps & Scalable Deployment
-
-- Deployed models using **Docker**, **Kubernetes**, and **Vertex AI** across **GCP**, **Azure**, and **AWS**.  
-- Built **CI/CD pipelines** and **reproducible workflows** using **MLflow**, **Weights & Biases**, and cloud-native orchestration tools.
-
-I enjoy building systems that make unstructured data usable, interpretable, and impactful.
+**MLOps & Cloud:** AWS, Azure, GCP, Docker, Kubernetes, FastAPI, MLflow, Weights & Biases
 
 ---
 
 #### Education
 
-I hold a **Master’s degree in Computer Science (Research Track)** from the **University of Colorado Boulder**.
+**M.S. Computer Science**, University of Colorado Boulder (GPA 3.90/4), Aug 2023 to May 2025
+
+**B.S. Computer Science**, KIIT University, May 2016 to May 2020
 
 ---
 
-#### Actively Seeking
-
-I am actively pursuing **full-time opportunities** in **AI/ML**, **NLP**, or **GenAI** roles. With experience in both research labs and enterprise environments, I’m excited to bring my expertise in production-grade AI systems.
-
-📫 Feel free to reach out: <a href='mailto:sdwivedy30@gmail.com'>sdwivedy30@gmail.com</a>
+Happy to connect. Always up for a conversation about applied AI, agentic systems, and building them for the real world. Reach me at <a href='mailto:sdwivedy30@gmail.com'>sdwivedy30@gmail.com</a> or on LinkedIn.
