@@ -13,6 +13,7 @@ category: RAG and Agentic AI
 ---
 
 ## **📜 Certification**
+
 - **Link to view certification**: <a href="https://cdn-uploads.huggingface.co/production/uploads/noauth/6l-Y-TKTpO-_vrJnV6J7R.webp" target="_blank">Hugging Face - AI Agents Course</a>
 
 <div class="row justify-content-sm-center">
@@ -23,7 +24,6 @@ category: RAG and Agentic AI
 ---
 
 ## 📘 **Covered Modules**
-
 
 1. **Introduction to Agents**  
    Fundamentals of AI Agents: reasoning and planning, the role of LLMs as the agent “brain,” and message-based structuring of conversations. Built the first agent, **Alfred**, using `smolagents`, applying the Think → Act → Observe workflow.
@@ -42,4 +42,4 @@ category: RAG and Agentic AI
 
 ---
 
-*Certificate issued to Sailesh Dwivedy in April 2025.*
+_Certificate issued to Sailesh Dwivedy in April 2025._

@@ -80,9 +80,7 @@
       "startDate": "2024-08",
       "endDate": "Present",
       "summary": "Worked on Knowledge Distillation in Computer Vision.",
-      "highlights": [
-        "Continued my work on enhancing performance by 15% over state-of-the-art methods and increased training efficiency by 80%."
-      ]
+      "highlights": ["Continued my work on enhancing performance by 15% over state-of-the-art methods and increased training efficiency by 80%."]
     },
     {
       "name": "University of Colorado, Boulder",
@@ -91,38 +89,34 @@
       "startDate": "2024-05",
       "endDate": "2024-08",
       "summary": "Worked on Knowledge Distillation in Computer Vision.",
-      "highlights": [
-        "Used data-driven techniques to enhance performance by 15% over SOTA."
-      ]
+      "highlights": ["Used data-driven techniques to enhance performance by 15% over SOTA."]
     },
-  {
-    "name": "Kalinga Institute of Industrial Technology",
-    "position": "Research Associate",
-    "url": "https://kiit.ac.in/",
-    "startDate": "2023-02",
-    "endDate": "2023-08",
-    "summary": "Worked with Prof. Suresh Satapathy on imbalanced classification techniques.",
-    "highlights": [
-      "Researched SMOTE, sampling, and Tomek Links for imbalanced classification problems."
-    ]
-  },
-  {
-    "name": "Highradius Technologies Private Limited",
-    "position": "Data Science Team Lead",
-    "url": "https://www.highradius.com/",
-    "startDate": "2020-09",
-    "endDate": "2023-02",
-    "summary": "Led a team of 10 in implementing and deploying ML models for enterprise clients.",
-    "highlights": [
-      "Designed and deployed Smart Email Composer, using techniques of Information Extraction like Event Extraction and NER combined with Generative AI to classify events and extract key entities from emails, enabling tailored email responses and enhancing account workflows.",
-      "Owned end-to-end deployment of the AI solution, reducing response time by 40%, delivering business impact.",
-      "Developed imbalance classification financial models for Deduction Validity Predictor for Fortune 500 clients with 90% accuracy, cutting research time by 25% and boosting dollar amount recovery by 12%.",
-      "Developed ML models for regression use case of Payment Date Prediction, cutting Days Sales Outstanding by 30%.",
-      "Automated the ML pipeline leading to 33% deployment timeline reduction resulting in faster value realization.",
-      "Led a team of 10 on advanced analytics projects, driving innovation through collaboration with cross-functional teams.",
-      "Leveraged strong communication skills presenting actionable insights to stakeholders for data-informed decision-making."
-    ]
-  }
+    {
+      "name": "Kalinga Institute of Industrial Technology",
+      "position": "Research Associate",
+      "url": "https://kiit.ac.in/",
+      "startDate": "2023-02",
+      "endDate": "2023-08",
+      "summary": "Worked with Prof. Suresh Satapathy on imbalanced classification techniques.",
+      "highlights": ["Researched SMOTE, sampling, and Tomek Links for imbalanced classification problems."]
+    },
+    {
+      "name": "Highradius Technologies Private Limited",
+      "position": "Data Science Team Lead",
+      "url": "https://www.highradius.com/",
+      "startDate": "2020-09",
+      "endDate": "2023-02",
+      "summary": "Led a team of 10 in implementing and deploying ML models for enterprise clients.",
+      "highlights": [
+        "Designed and deployed Smart Email Composer, using techniques of Information Extraction like Event Extraction and NER combined with Generative AI to classify events and extract key entities from emails, enabling tailored email responses and enhancing account workflows.",
+        "Owned end-to-end deployment of the AI solution, reducing response time by 40%, delivering business impact.",
+        "Developed imbalance classification financial models for Deduction Validity Predictor for Fortune 500 clients with 90% accuracy, cutting research time by 25% and boosting dollar amount recovery by 12%.",
+        "Developed ML models for regression use case of Payment Date Prediction, cutting Days Sales Outstanding by 30%.",
+        "Automated the ML pipeline leading to 33% deployment timeline reduction resulting in faster value realization.",
+        "Led a team of 10 on advanced analytics projects, driving innovation through collaboration with cross-functional teams.",
+        "Leveraged strong communication skills presenting actionable insights to stakeholders for data-informed decision-making."
+      ]
+    }
   ],
   "skills": [
     {
