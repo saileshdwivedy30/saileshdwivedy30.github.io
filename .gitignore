@@ -11,3 +11,8 @@ assets/libs/
 node_modules/
 vendor
 .idea
+
+# local resume drafts, not meant to be published
+assets/pdf/Sailesh Dwivedy Resume.pdf
+assets/pdf/Sailesh_Resume.docx
+assets/pdf/Sailesh_Resume_v1.pdf
